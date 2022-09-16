@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "73341973-D0C5-4911-A628-82254529B108"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "843F0410-6342-40A4-BF30-0A0437BC1B95"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Agify/Models/AgifyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getNameAsync(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "843F0410-6342-40A4-BF30-0A0437BC1B95 - 8cfdd85e7ff67034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Agify.AgifyViewModel.getInfoAsync(name: Swift.String) async throws -&gt; Swift.Optional&lt;Agify.NameResult&gt;"
+                  moduleName = "Agify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidwilliams/Desktop/Personal/Coding%20Projects/iOS%20Development/Agify/Agify/Models/AgifyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "843F0410-6342-40A4-BF30-0A0437BC1B95 - a7294f5a83937e22"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Agify.AgifyViewModel.getInfoAsync(name: Swift.String) async throws -&gt; Swift.Optional&lt;Agify.NameResult&gt;"
+                  moduleName = "Agify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidwilliams/Desktop/Personal/Coding%20Projects/iOS%20Development/Agify/Agify/Models/AgifyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "843F0410-6342-40A4-BF30-0A0437BC1B95 - 759235eb48af3432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Agify.AgifyViewModel.getInfoAsync(name: Swift.String) async throws -&gt; Swift.Optional&lt;Agify.NameResult&gt;"
+                  moduleName = "Agify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidwilliams/Desktop/Personal/Coding%20Projects/iOS%20Development/Agify/Agify/Models/AgifyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "843F0410-6342-40A4-BF30-0A0437BC1B95 - 21fb1c42cd3b9631"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Agify.AgifyViewModel.getInfoAsync(name: Swift.String) async throws -&gt; Swift.Optional&lt;Agify.NameResult&gt;"
+                  moduleName = "Agify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidwilliams/Desktop/Personal/Coding%20Projects/iOS%20Development/Agify/Agify/Models/AgifyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
